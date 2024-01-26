@@ -1,5 +1,5 @@
 
-# Accessing CloudSQL with Private Service Connect enabled from Cloud Run
+# Accessing CloudSQL with Private Service Connect from Cloud Run
 
 This approach ensures that your database connections remain private and isolated, reducing the risk of unauthorized access and meeting stringent regulatory requirements. It also offers improved performance, lower latency, and cost savings, while giving you greater control over network access policies. By leveraging Private Service Connect, you can build robust and reliable systems that prioritize data privacy and network efficiency, making it an essential practice in modern cloud development.
 

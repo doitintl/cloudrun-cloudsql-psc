@@ -311,7 +311,7 @@ Which is the result of the query defined in our app.py file
 
 ## Acknowledgements
 
- - I would like to extend my heartfelt gratitude to Aarmir Haroon for their invaluable assistance. Your support has been immensely appreciated.
+ - I would like to extend my heartfelt gratitude to Aarmir Haroon for his invaluable assistance. Your support has been immensely appreciated.
 
 
 

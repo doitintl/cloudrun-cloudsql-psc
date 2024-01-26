@@ -255,7 +255,7 @@ def query_db():
         # Function to create a new connection
         def getconn() -> pymysql.connections.Connection:
             conn = connector.connect(
-                "steeve-playground:us-central1:instance01",
+                "your-project-name:us-central1:instance01",
                 "pymysql",
                 ip_type=IPTypes.PSC,
                 user="alex",

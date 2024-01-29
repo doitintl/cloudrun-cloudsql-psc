@@ -232,7 +232,7 @@ pymysql
 sqlalchemy
 ```
 
-My app.py file - For Testing purposes we added the password in the code but should [Secret Manager](https://cloud.google.com/security/products/secret-manager) in production
+My app.py file - For Testing purposes we added the password in the code but in production we should use [Secret Manager](https://cloud.google.com/security/products/secret-manager)
 ```python
 from flask import Flask, jsonify
 from google.cloud.sql.connector import Connector, IPTypes
